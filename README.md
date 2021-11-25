@@ -21,7 +21,7 @@ const gerardBaste = {
             css: [“Material UI”, “Bootstrap”, “Bulma”, “Tailwind CSS”, "Semantic UI"]
         },
         backEnd: {
-            js: [“NodeJs”, “Express”, “Graphql”, “Mongoose”, “Dynamoose”, NextJS],
+            js: [“NodeJs”, “Express”, “Graphql”, “Mongoose”, “Dynamoose”, "NextJS"],
         },
         devOps: [“AWS”, “Docker”, “Heroku”, “Netlify”],
         databases: [“MongoDb”, “DynamoDB”],

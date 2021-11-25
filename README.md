@@ -27,7 +27,7 @@ const gerardBaste = {
         databases: [“MongoDb”, “DynamoDB”],
         misc: [“Firebase”, “Socket io”, “Git”, “Github”, “Bitbucket”]
     },
-    currentFocus: “Honing my skills in backend”
+    currentFocus: “sharpening my skills in backend”
 };
 
 ```

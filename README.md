@@ -25,6 +25,7 @@ const gerardBaste = {
         },
         devOps: [“AWS”, “Docker”, “Heroku”, “Netlify”],
         databases: [“MongoDb”, “DynamoDB”],
+        test: ["Jest"],
         misc: [“Firebase”, “Socket io”, “Git”, “Github”, “Bitbucket”]
     },
     currentFocus: “sharpening my skills in backend”
